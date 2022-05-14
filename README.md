@@ -1,5 +1,5 @@
 
-### Pinned repo (just so i dont need to scroll)
+### Pinned repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LustForLove&repo=Irenesbot&theme=github_dark&show_owner=True)](https://github.com/LustForLove/Irenesbot)
 ---
 ![LustForLove stats](https://github-readme-stats.vercel.app/api?username=LustForLove&count_private=true&show_icons=true&theme=github_dark)
