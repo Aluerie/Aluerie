@@ -1,4 +1,8 @@
-### Hello 
+
+### Pinned repo (just so i dont need to scroll)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LustForLove&repo=Irenesbot&theme=github_dark&bg_color=282828&hide_border=True)](https://github.com/LustForLove/Irenesbot)
+---
+### My Profile
 - 👋 Hi, I’m @LustForLove
 ---
 ### Bio
