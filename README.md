@@ -3,7 +3,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LustForLove&repo=Irenesbot&theme=github_dark&show_owner=True)](https://github.com/LustForLove/Irenesbot)
 ---
 ![LustForLove stats](https://github-readme-stats.vercel.app/api?username=LustForLove&count_private=true&show_icons=true&theme=github_dark)
-![LustForLove Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LustForLove&theme=github_dark&layout=compact&card_width=330)
+![LustForLove Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LustForLove&theme=github_dark&layout=compact&card_width=445)
 ---
 ### My Profile
 - 👋 Hi, I’m @LustForLove
