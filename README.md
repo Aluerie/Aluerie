@@ -1,10 +1,13 @@
 
 ### Pinned repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LustForLove&repo=Irenesbot&theme=github_dark&show_owner=True)](https://github.com/LustForLove/Irenesbot)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aluerie&repo=Irenesbot&theme=github_dark&show_owner=True)](https://github.com/Aluerie/Irenesbot)
 
 ### Bio
-TODO: Fill out these 
-- 👋 Hi, I’m @LustForLove
+
+TODO: Fill out these
+
+- 👋 Hi, I’m @Aluerie
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -14,10 +17,11 @@ TODO: Fill out these
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-### Stats
-![LustForLove stats](https://github-readme-stats.vercel.app/api?username=LustForLove&count_private=true&show_icons=true&theme=github_dark)
-![LustForLove Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LustForLove&theme=github_dark&layout=compact&card_width=445)
-![LustForLove Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LustForLove&theme=github_dark&count_private=true)
 
-Other stats from all these fancy-read-me projects are [here](https://github.com/LustForLove/LustForLove/blob/main/STATS.md)
+### Stats
+
+![Aluerie stats](https://github-readme-stats.vercel.app/api?username=Aluerie&count_private=true&show_icons=true&theme=github_dark)
+![Aluerie Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aluerie&theme=github_dark&layout=compact&card_width=445)
+![Aluerie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aluerie&theme=github_dark&count_private=true)
+
+Other stats from all these fancy-read-me projects are [here](https://github.com/Aluerie/Aluerie/blob/main/STATS.md)
