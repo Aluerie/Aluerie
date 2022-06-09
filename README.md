@@ -1,10 +1,3 @@
-
-### Pinned repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aluerie&repo=AluBot&theme=github_dark&show_owner=True)](https://github.com/Aluerie/AluBot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aluerie&repo=Dota2Utils&theme=github_dark&show_owner=True)](https://github.com/Aluerie/Dota2Utils)
-### Bio
-
 TODO: Fill out these
 
 - 👋 Hi, I’m @Aluerie
@@ -25,4 +18,3 @@ These stats are not precise and do not count Private repositories but neverthele
 ![Aluerie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aluerie&theme=github_dark&count_private=true)
 ![Aluerie stats](https://github-readme-stats.vercel.app/api?username=Aluerie&include_all_commits=True&count_private=true&show_icons=true&theme=github_dark&line_height=19&hide_title=True&hide_rank=True&hide_border=True)
 ![Aluerie Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aluerie&theme=github_dark&layout=compact&card_width=200&hide_title=True&langs_count=10&hide_border=True)
-
