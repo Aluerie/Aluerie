@@ -1,3 +1,8 @@
+# Pinned repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aluerie&repo=AluBot&theme=github_dark&show_owner=True)](https://github.com/Aluerie/AluBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aluerie&repo=Dota2Utils&theme=github_dark&show_owner=True)](https://github.com/Aluerie/Dota2Utils)
+
 # Stats
 
 Some of these stats are not perfectly correct, some of them do not count private repositories but nevertheless:
