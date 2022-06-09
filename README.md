@@ -10,6 +10,5 @@
 
 ### Stats (without private/orgs) - [more here](https://github.com/Aluerie/Aluerie/blob/main/STATS.md)
 
-![Aluerie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aluerie&theme=github_dark&count_private=true)
 ![Aluerie stats](https://github-readme-stats.vercel.app/api?username=Aluerie&include_all_commits=True&count_private=true&show_icons=true&theme=github_dark&line_height=19&hide_title=True&hide_rank=True&hide_border=True)
-![Aluerie Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aluerie&theme=github_dark&layout=compact&card_width=200&hide_title=True&langs_count=10&hide_border=True)
+![Aluerie Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aluerie&theme=github_dark&layout=compact&hide_border=True&hide_title=True&langs_count=10&card_width=200)
