@@ -1,6 +1,3 @@
-TODO: Fill out these
-
-- 👋 Hi, I’m @Aluerie
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -11,9 +8,7 @@ TODO: Fill out these
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Stats
-
-These stats are not precise and do not count Private repositories but nevertheless. And btw, other stats from all these fancy-read-me projects are [here](https://github.com/Aluerie/Aluerie/blob/main/STATS.md)
+### Stats (without private/orgs) - [more here](https://github.com/Aluerie/Aluerie/blob/main/STATS.md)
 
 ![Aluerie Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aluerie&theme=github_dark&count_private=true)
 ![Aluerie stats](https://github-readme-stats.vercel.app/api?username=Aluerie&include_all_commits=True&count_private=true&show_icons=true&theme=github_dark&line_height=19&hide_title=True&hide_rank=True&hide_border=True)
