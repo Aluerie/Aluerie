@@ -16,8 +16,15 @@ This file is just for possible links/sources to edit `README.md`. Idk, just coll
     - ⚡ Stats from various fancy `Readme.md` projects are [here](https://github.com/Aluerie/Aluerie/blob/main/STATS.md)
 
 * Templates
+    - https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 * Comments
+    - 😄 Pronouns: Any are fine.
+
+* images
+    - <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    - https://devicon.dev/
+    - https://profilinator.rishav.dev/
 
 [//]: # (- 👀 I’m interested in ...)
 [//]: # (- 🌱 I’m currently learning ...)
@@ -26,3 +33,4 @@ This file is just for possible links/sources to edit `README.md`. Idk, just coll
 [//]: # (- 🤔 I’m looking for help with ...)
 [//]: # ( - 💬 Ask me about ...)
 [//]: # ( - 📫 How to reach me: ...)
+
