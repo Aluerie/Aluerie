@@ -1,4 +1,6 @@
+This file is just for possible links/sources to edit `README.md`. Idk, just collecting those. 
 
+--- 
 * Shields io 
     - https://shields.io/
     - [logo preview](https://simpleicons.org/) 
@@ -10,8 +12,12 @@
 * Spotify 
     - https://github.com/kittinan/spotify-github-profile
 
+* Stats
+    - ⚡ Stats from various fancy `Readme.md` projects are [here](https://github.com/Aluerie/Aluerie/blob/main/STATS.md)
 
-* old
+* Templates
+
+* Comments
 
 [//]: # (- 👀 I’m interested in ...)
 [//]: # (- 🌱 I’m currently learning ...)
