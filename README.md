@@ -17,20 +17,22 @@ Coder and gamer.
 
 ## 🧰 Toolbox
 
-<div align="left" style="background: #555555;">
-<!-- Icons are from  <https://devicon.dev/>-->
+<div align="left">
+<!-- Icons are from  
+* https://github.com/alexandresanlim/Badges4-README.md-Profile
+* https://devicon.dev/
+* -->
 
 <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
+<img src="    https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" title="Python"/>
 <!-- Rus -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" title="Rust"/>
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust"/>
 <!-- SQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" title="SQL"/>
+<img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" title="SQL"/>
 <!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
 <!-- LaTeX -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" title="LaTeX"/>
+<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" title="LaTeX"/>
 <!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40" title="HTML"/>
-
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"/>
 </p>
