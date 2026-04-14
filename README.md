@@ -17,7 +17,7 @@ Coder and gamer.
 
 ## 🧰 Toolbox
 
-<p align="left">
+<div align="left" style="background: #555555;">
 <!-- Icons are from  <https://devicon.dev/>-->
 
 <!-- Python -->
