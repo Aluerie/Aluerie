@@ -24,7 +24,7 @@ Coder and gamer.
 * -->
 
 <!-- Python -->
-<img src="    https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" title="Python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" title="Python"/>
 <!-- Rus -->
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust"/>
 <!-- SQL -->
