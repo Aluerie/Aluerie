@@ -6,11 +6,13 @@ Readme.md - my github profile.
 * It seems `height=35` doesn't work in GitHub flavoured markdown, but `style="height: 35px;` does.
 -->
 
-# Hi, I'm @Aluerie (Irene Adler 💜) 💃
+# 💃 Hi, I'm @Aluerie (Irene Adler 💜)
 
-Coder and gamer.
+* 👩‍💻 Coder
+* 🎮 Gamer
+* 🖊️ Writer
 
-## 📲 Connect
+## 📲 Connect with me
 
 <div align="left">
 <!-- Twitch -->
