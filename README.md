@@ -58,3 +58,8 @@ Readme.md - my github profile.
 <!-- AHK -->
 <img style="height: 33px;" src="https://img.shields.io/badge/ahk-448e3a?style=for-the-badge&logo=AutoHotkey&logoColor=white" alt="AHK" title="AHK"/>
 </div>
+
+## 📌 Pinned repositories
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aluerie&repo=Aluerie%2FIrenesBot&description_lines_count=1&theme=transparent)](https://github.com/Aluerie/IrenesBot)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Aluerie&repo=Aluerie%2FIrenesBot&description_lines_count=1&theme=transparent)](https://github.com/Aluerie/IrenesBot)
