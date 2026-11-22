@@ -36,8 +36,12 @@ Readme.md - my github profile.
 ## 🧰 Toolbox
 
 <div align="left">
-<!-- Icons are from
-* https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- 
+Icons are from
+* https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+Maybe in future we should replace it with <https://skillicons.dev>
+-->
 
 <!-- Languages -->
 <!-- Python -->
