@@ -8,9 +8,9 @@ Readme.md - my github profile.
 
 # 💃 Hi, I'm Irene Adler 💜 (@Aluerie)
 
-* 👩‍💻 Coder: mostly Python (Discord/Twitch bots, automation), learning Rust.
-* 🎮 Gamer: I stream challenge runs/kills in various games on Twitch.
-* 🖊️ Writer: that side of me is in the past, but maybe I will dig it up from the grave.
+* 👩‍💻 **Coder**: mostly Python (Discord/Twitch bots, automation), learning Rust.
+* 🎮 **Gamer**: I stream challenge runs/kills in various games on Twitch.
+* 🖊️ **Writer**: that side of me is in the past, but maybe I will dig it up from the grave.
 
 ## 📲 Connect with me
 
